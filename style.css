@@ -515,13 +515,16 @@ img {
 }
 
 .skills__php{
-  width: 30%;
+  width: 80%;
 }
 
 .skills__py{
   width: 20%;
 }
 
+.skills__laravel {
+  width: 40%;
+}
 .skills__photoshop{
   width: 40%;
 }
@@ -540,6 +543,13 @@ img {
   transform: rotate(-180deg);
 }
 
+.skills__figma {
+  width: 90%;
+}
+
+.skills__adobexd {
+  width: 90%;
+}
 
 /*==================== BG ====================*/
 .qualification__tabs{
